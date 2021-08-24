@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Brandon Divelbess",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://divelbess.github.io/images/divelbess.jpg",
+    "email": "divelbes@hawaii.edu",
+    "phone": "808-349-5898",
+    "website": "https://divelbess.github.io",
+    "summary": "I am a student at Universtiy of Hawaii at Manoa and I am studying to get into the MIS scene.",
     "location": {
-      "address": "",
+      "address": "91-1014B Keolokolo Street",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "divelbess",
+        "url": "http://github.com/Divelbess"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "gamification",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "sustainability",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "power quality",
       "keywords": [
       ]
     }
