@@ -58,8 +58,8 @@
         "Terminal",
         "Git/GitHub",
         "Windows",
-        "Java",
-      ]
+        "Java"
+    ]
     }
   ],
   "education": [
@@ -71,7 +71,7 @@
       "endDate": "Present",
       "gpa": "3.48",
       "courses":[
-        "ICS 101"
+        "ICS 101",
         "BUS 311"
       ]
     }
