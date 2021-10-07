@@ -8,6 +8,7 @@ labels:
   - Blog
   - Answers
 ---
+Invoice 1 was one of the first WOD's where we had to use dynamic variables and outputs which is found here [Invoice1](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html). Another thing to know is that this essay is based upon questions which are written but can be found through [E3: Preparing for WODs Essay](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html)
 ## Experience of Invoice 1
 Through experience I felt like I did pretty well following the steps. I had a good grasp on understanding what to do. I think the only time I would fumble is when I actually forgot how to write a command. Other than that it was a pretty smooth experience as long as I have a table that I can just copy and paste from. Oh, and the code that I fumbled was actually me missing a $ sign infront of price.
 
