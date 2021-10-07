@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  E3 Preparing for WOD's
 # All dates must be YYYY-MM-DD format!
-date: 2021-10-6
+date: 2021-10-06
 labels:
   - Blog
   - Answers
